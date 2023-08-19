@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @arn97bd
+- 👀 I’m interested in data analysis using machine learning algorithms
+- 🌱 I’m currently learning matlab and python
+-  you can reach me on gmail: nancymaryrozario@gmail.com
